@@ -1,5 +1,5 @@
 # textLoad
-Simple JavaScript text file importer
+Simple jQuery text file importer
 
 ## How to install
 Simply add it to your site using the script tag, in example:
